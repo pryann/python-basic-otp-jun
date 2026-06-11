@@ -18,3 +18,5 @@ sentence = "My name is {0} {1}. I'm {2} years old.".format(first_name, last_name
 print(sentence)
 sentence = f"My name is {first_name} {last_name}. I'm {age} years old."
 print(sentence)
+
+print("hello" * 5)
