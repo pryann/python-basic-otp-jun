@@ -6,3 +6,9 @@
 4. Írj egy Python programot, amely egy listából az összes páros és páratlan számot két külön listába szétválasztja! Használj comrehensiont!
 5. Adott egy `string`, amely szóközöket is tartalmaz. Írj egy programot, amely eltávolítja a szóköz karaktereket a stringből, majd a string karaktereit fordított sorrendben írja ki!
 6. Adott egy lista, amely számokat tartalmaz. Írj egy programot, amely meghatározza a lista elemeinek összegét a következő feltételek szerint: ha az elem pozitív, akkor az összegbe kerüljön be, ha negatív, akkor ne!
+
+## PLUSZ
+
+1. Írj egy Python programot, amely két azonos hosszúságú listát összefűz egyetlen új listába úgy, hogy az első lista minden páros indexű elemét a második lista megfelelő elemére cseréli!
+2. Írj egy Python programot, amely három egész számról eldönti, hogy ezek az oldalhosszak alkothatnak-e egy háromszöget! Egy logikai `True` vagy `False` érték legyen a kimeneten a feltétel kiértékelésétől függően!
+3.  Adj meg egy számot és írj egy programot, amely kiírja az összes osztóját a számnak! Használd a `while` ciklust!
